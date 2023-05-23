@@ -1,0 +1,11 @@
+{
+  "name": "tugas1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mulai": "node soal-1.js &&  node soal-2.js && echo \"Berhasil\""
+  },
+  "author": "",
+  "license": "ISC"
+}
